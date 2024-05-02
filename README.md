@@ -16,9 +16,9 @@ StudyNotion is a fully functional ed-tech platform that enables users to create,
 ## Installation and Setup
 
 1. Clone the repository: `git clone <repository-url>`
-2. Install dependencies: `npm install`
-3. Configure environment variables (e.g., MongoDB connection URI, JWT secret key, Razorpay API key, etc.).
-4. Start the development server: `npm start`
+2. Install dependencies: `npm install` in server and root directory both.
+3. Configure environment variables (e.g., MongoDB connection URI, JWT secret key, Razorpay API key, etc.) as mentioned in env.example.
+4. Start the development server: `npm run dev`
 
 ## Technologies Used
 
